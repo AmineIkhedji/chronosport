@@ -123,13 +123,6 @@ flutter build apk        # APK Android
 flutter build web        # Build web
 ```
 
-Splash et icônes (après modification de `assets/splash/splash.png`) :
-
-```bash
-dart run flutter_native_splash:create
-dart run flutter_launcher_icons
-```
-
 ---
 
 ## Licence
