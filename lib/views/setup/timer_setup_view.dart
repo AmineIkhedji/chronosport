@@ -76,7 +76,7 @@ class _TimerSetupViewState extends State<TimerSetupView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Chrono Coach'),
+        title: const Text('ChronoSport'),
         actions: [
           ThemeSwitcherMenu(
             current: widget.currentThemeMode,

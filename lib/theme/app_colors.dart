@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/timer_step.dart';
 
-/// Chrono Coach's palette. Inspired by a running track at dusk: an
-/// ink-dark ground, chalk lane markings, and the three lit-up interval
-/// colors a coach's stopwatch would use — lime for effort, amber for
-/// recovery, blue for the long rest.
 class AppColors {
   AppColors._();
 

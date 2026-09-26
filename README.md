@@ -1,16 +1,15 @@
-# Chrono Coach
+# ChronoSport
 
 Application Flutter de **chrono d’entraînement par intervalles**.
 
 Tu prépares ta séance (nombre d’efforts, durées, pauses), tu lances le chrono, et l’app enchaîne automatiquement les étapes avec un compte à rebours visuel et des bips sonores.
 
-Le dépôt s’appelle `chronosport` ; le nom affiché dans l’app est **Chrono Coach**.
 
 ---
 
 ## À quoi ça sert
 
-Chrono Coach remplace le chronomètre + la calculatrice mentale pendant un entraînement :
+ChronoSport remplace le chronomètre + la calculatrice mentale pendant un entraînement :
 
 1. **Préparer** — choisir un format prêt à l’emploi ou régler les 4 paramètres.
 2. **Vérifier** — voir le programme et la durée totale avant de partir.

@@ -16,7 +16,7 @@ class _ChronoAppState extends State<ChronoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Chrono Coach',
+      title: 'ChronoSport',
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: _themeMode,
